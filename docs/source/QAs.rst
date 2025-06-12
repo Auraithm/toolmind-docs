@@ -1,8 +1,0 @@
-QAs
-===
-
-.. autosummary::
-   :toctree: generated
-   
-
-   

@@ -13,5 +13,3 @@
 ----
 
 .. toctree::
-   usage
-   QAs
