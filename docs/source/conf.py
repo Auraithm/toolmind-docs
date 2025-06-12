@@ -21,8 +21,8 @@ extensions = [
 ]
 
 source_suffix = {
-    '.rst': 'restructuredtext',
     '.md': 'markdown',
+    '.rst': 'restructuredtext',
 }
 
 # 如果想使用 index.md 作为主文档，取消下面这行的注释
