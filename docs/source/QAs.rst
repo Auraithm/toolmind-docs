@@ -1,7 +1,8 @@
-API
+QAs
 ===
 
 .. autosummary::
    :toctree: generated
+   
 
-   lumache
+   

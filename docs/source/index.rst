@@ -1,20 +1,17 @@
-Welcome to toolmind's documentation!
-===================================
-**toolmind** is a Python library for AI research.
+欢迎使用 toolmind 文档！
+=====================
 
-It offers a *simple* and *intuitive* API.
+**toolmind** 是一个用于人工智能研究的工具集成库。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+查看 :doc:`usage` 部分以获取更多信息，包括如何 :ref:`installation` 该项目。
 
 .. note::
 
-   This project is under active development.
+   本项目正在积极开发中。
 
-Contents
---------
+目录
+----
 
 .. toctree::
-
    usage
-   api
+   QAs
