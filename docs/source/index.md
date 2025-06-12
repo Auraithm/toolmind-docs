@@ -11,8 +11,16 @@
 ## 目录
 
 ```{toctree}
-:maxdepth: 2
-:caption: 内容
+:maxdepth: 3
+:caption: 用户指南
+:numbered:
 
 usage
+```
+
+```{toctree}
+:maxdepth: 2  
+:caption: 开发文档
+
+example
 ``` 
