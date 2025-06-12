@@ -13,3 +13,7 @@
 ----
 
 .. toctree::
+   :maxdepth: 2
+   :caption: 内容:
+
+   usage

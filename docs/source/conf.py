@@ -25,6 +25,9 @@ source_suffix = {
     '.md': 'markdown',
 }
 
+# 如果想使用 index.md 作为主文档，取消下面这行的注释
+# master_doc = 'index'
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
